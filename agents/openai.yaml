@@ -1,0 +1,4 @@
+interface:
+  display_name: "红域小红书直播复盘诊断"
+  short_description: "基于截图和数据表复盘小红书直播，定位流量、转化、货盘与限流问题"
+  default_prompt: "使用 $hongyu-xhs-live-diagnosis 根据我上传的千帆数据截图，复盘这场小红书直播并给出下一场改进方案。"
